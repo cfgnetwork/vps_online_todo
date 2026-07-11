@@ -3,7 +3,7 @@
 
 
 ### 拉取地址
-`wget https://github.com/cfgnetwork/vps_online_todo/blob/main/90-vps-optimize-jacob.conf`
+`wget https://raw.githubusercontent.com/cfgnetwork/vps_online_todo/refs/heads/main/90-vps-optimize-jacob.conf`
 
 ### 移动目录:
 `mv 90-vps-optimize-jacob.conf /etc/sysctl.d/90-vps-optimize-jacob.conf`
